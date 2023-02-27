@@ -1,2 +1,2 @@
 My first readme
-subit via github
+submit via github
